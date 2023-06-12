@@ -1,0 +1,3 @@
+diffrence between git merge and git cherry pick
+we are doing some annocement or some of version we created tag in whole branch we have 50 commits along with 20 tags we don't want 
+we don't want compete announcement we need lattest announcement so we go for git cherry pick
